@@ -16,7 +16,7 @@ Guestara is a Node.js application for managing categories, sub-categories, and i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/guestara.git
+   git clone https://github.com/NirajNirala633/Guestara.git
    cd guestara
    ```
 
